@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+
+}
+header{
+    height: 700px;
+    width: 100%;
+    background-image: url("../images/banner/banner2.png");
+    margin-right: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 700px;
+   
+
+
+}
+.header-pra{
+    padding-bottom: 20px;
+}
+
+.header h2{
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0em;
+    text-align: right;
+    margin-bottom: 18px;
+   
+    
+}
+.header{
+    display: flex;
+}
+.first-nav{
+    width: 50%;
+    margin-bottom: 365px;
+}
+
+.second-nav{
+    margin-top: 180px;
+    margin-right: 100px;
+    width: 50%;
+    text-align: right;
+    margin-bottom: 365px;
+}
+.second-nav .primary-button{
+    margin-bottom: 200px;
+}
+.primary-button{
+    background-color: orangered;
+    padding: 20px 26px;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+}
